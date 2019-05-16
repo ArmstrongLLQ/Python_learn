@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>home</title>
+</head>
+<body>
+<h1>welcome!</h1>
+{% for i in a_list %}
+	{{i}}{% if not forloop.last %},{% endif %}
+{% endfor %}
+</body>
+</html>
