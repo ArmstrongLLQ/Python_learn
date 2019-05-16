@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project calc -->
+<!-- Saved: 2019-01-08, 18:33:45 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{344c4ded-d34a-4f6c-8b49-0bbd52ea2fac}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>33</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{55e91aa2-ab46-4d31-a90b-5cf16f41dd5e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>41</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b5174073-10f8-4006-bf93-f8c525daf4fa}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>49</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{4d01019c-300a-49b4-8365-e5849ef4ec05}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>57</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a45c6fa7-7d5c-4004-976c-248ff244d4bf}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>65</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e9bf4216-58d7-480f-8f3c-e13fe39b3cc6}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>73</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{29ab92eb-5cc7-4300-87fb-62441b847813}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>81</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5dee64bf-565c-4a26-81bc-f4012e97b529}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>89</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1f407811-592d-41b7-955d-98b14e6552a2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>97</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{19ab7257-724d-4cfc-ac9a-1e5b5a5872d7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>114</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{cb879166-61b9-480d-8879-c9b0c4e13027}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>122</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{034730a4-8d70-4fba-b3ca-c4e95be6d271}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>130</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{943b40fb-2070-45e1-b0aa-c232ac5570b4}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>138</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{77c464e9-ef13-4d7d-82fb-d63d09540263}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>146</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{56946c39-0ec6-4d4a-bb14-243053a6f4a3}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-08, 17:02:21</Created>
+    <Resource>
+      <Filename>calc.py</Filename>
+      <Linenumber>154</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

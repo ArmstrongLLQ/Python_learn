@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}" />
+</head>
+<body>
+<h1>{{ title }}</h1>
+<nav>
+    <a href="{{ url_for('.service') }}">Services</a>
+    <a href="{{ url_for('.about') }}">About</a>
+</nav>
+
+</body>
+</html>

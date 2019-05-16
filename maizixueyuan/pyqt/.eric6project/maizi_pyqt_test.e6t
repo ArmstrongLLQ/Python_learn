@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project maizi_pyqt_test -->
+<!-- Saved: 2018-10-26, 17:01:52 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{7731254f-5bd2-4cb4-9ebf-42bd80068410}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-10-26, 15:47:02</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>33</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
