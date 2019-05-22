@@ -1,0 +1,8 @@
+**/.vscode
+**/__pycache__
+**/.idea
+**/.eric6project
+**/.ipynb_checkpoints
+
+keras2.0中文文档.pdf
+glove.6B.50d.txt
