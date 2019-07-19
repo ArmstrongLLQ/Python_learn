@@ -4,6 +4,8 @@
 **/.eric6project
 **/.ipynb_checkpoints
 
+**/aclImdb
 keras2.0中文文档.pdf
 glove.6B.50d.txt
 lending-club-data.csv
+aclImdb_v1.tar.gz
