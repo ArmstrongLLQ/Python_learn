@@ -1,0 +1,10 @@
+1	Functional Behavior Data Spaces
+2	Context Free Graph Languages Bounded Degree Generated Apex Graph Grammars
+3	Parallel Integer Sorting
+4	Domain Independence Relational Calculus
+5	Efficient execution dynamically controllable simple temporal networks uncertainty
+6	Quad Trees Data Structure Retrieval Composite Keys
+7	Number Relational Operators Compute Functions Real Variables
+8	Data Encodings Costs
+9	Context Free Graph Grammars Concatenation Graphs
+10	Algorithms Fast Evaluation Boolean Expressions
